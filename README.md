@@ -1,7 +1,7 @@
 # 👋 Olá, eu sou Yogo Ribeiro de Castro
 
 💻 Desenvolvedor apaixonado por tecnologia e por transformar ideias em código.  
-🎯 Foco atual: Back-end com **Java**, aprendendo também **React** para evoluir como fullstack.  
+🎯 Foco atual: Front-end e Back-end com **Java**, aprendendo também **React** para evoluir como fullstack.  
 🚀 Buscando sempre melhorar e compartilhar projetos que possam inspirar e ajudar outras pessoas.
 
 ---
