@@ -28,8 +28,8 @@ O objetivo foi aplicar boas práticas de desenvolvimento em **Java**, utilizando
 ## 🌎 Onde me encontrar
 - 📫 **Email:** yogoribeiro0902@gmail.com  
 - 💼 [LinkedIn](https://www.linkedin.com/in/yogo-ribeiro-b734541b7/)
--    [Intagram](https://www.instagram.com/yogo_castro/)
--    **Whatsap:** 96991470830
+- 📸 [Intagram](https://www.instagram.com/yogo_castro/)
+- 💬 **Whatsap:** 96991470830
 
 
 ⭐ Se curtir algum projeto, não esquece de deixar uma **estrela**!
